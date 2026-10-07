@@ -1,0 +1,25 @@
+{
+  "digest_date": "2026-10-07",
+  "status": "ready",
+  "story_count": 2,
+  "stories": [
+    {
+      "headline": "Synthetic mortgage technology story 1",
+      "what_happened": "Synthetic test content for Power Automate handoff validation.",
+      "why_it_matters": "Tests whether Power Automate can consume a Work-generated digest through a GitHub pull request.",
+      "category": "Mortgage Technology",
+      "publication_date": "2026-10-07",
+      "source_name": "Synthetic Source",
+      "source_link": "https://example.com/test1"
+    },
+    {
+      "headline": "Synthetic digital closing story 2",
+      "what_happened": "Second synthetic test item.",
+      "why_it_matters": "Confirms multi-story parsing and email formatting.",
+      "category": "eClose",
+      "publication_date": "2026-10-07",
+      "source_name": "Synthetic Source",
+      "source_link": "https://example.com/test2"
+    }
+  ]
+}
